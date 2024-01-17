@@ -8,7 +8,7 @@ export default function Home() {
         <nav className="lg:p-10  p-5 flex items-center justify-between">
           <Image src="/logo.png" alt="image" width={120} height={120} />
           <a
-            href="https://github.com/Maitulya7/Smriti_Project"
+            href="https://github.com/Maitulya7/Upload-Files"
             target="_blank"
             rel="noopener noreferrer"
             className="lg:w-40  lg:h-10 w-28 h-8  bg-black rounded text-white font-semibold hover:bg-slate-800 flex items-center justify-center"
