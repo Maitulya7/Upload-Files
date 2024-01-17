@@ -4,7 +4,8 @@
 
 ## Live Demo 🚀
 
-Explore the live demo by visiting [**Live Demo**](https://upload-files-two.vercel.app/).
+[**Live Demo**](https://upload-files-two.vercel.app/){:target="_blank"}
+
 
 Feel free to interact with the app and experience the features firsthand! 🎉
 
