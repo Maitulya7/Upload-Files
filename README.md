@@ -4,7 +4,8 @@
 
 ## Live Demo 🚀
 
-[**Live Demo**](https://upload-files-two.vercel.app/){:target="_blank"}
+<a href="https://upload-files-two.vercel.app/" target="_blank">Live Demo</a>
+
 
 
 Feel free to interact with the app and experience the features firsthand! 🎉
